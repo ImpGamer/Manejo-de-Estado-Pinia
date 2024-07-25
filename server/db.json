@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Nintendo Switch",
+      "description": "Consola de videojuegos de Nintendo",
+      "price": 240,
+      "cost": 100
+    },
+    {
+      "id": "2",
+      "title": "Telefono Nokia",
+      "description": "Dispositivo de comunicacion Nokia",
+      "price": 230,
+      "cost": 120
+    },
+    {
+      "id": "e0cd7cef-c096-45ef-8bb6-839bbd05b7b1",
+      "title": "Celular Xiamoi",
+      "description": "Celular modelo 2024",
+      "price": 100,
+      "cost": 85
+    }
+  ],
+  "reviews": [],
+  "users": []
+}
